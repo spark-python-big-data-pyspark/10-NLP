@@ -92,3 +92,4 @@ etc.).
 <a name="schema3"></a>
 
 ## 3. NLP Code ALong Project
+NLP_Code_Along.ipynb
